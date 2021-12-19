@@ -19,6 +19,20 @@ if your system is 32bit, you have to download win32.whl
 or
 <br>
 if your system is 64bit, you have to download win_amd64.whl
+<br<
+and you have to find your python version
+
+<br><br>
+Example : PyAudio‑0.2.11‑cp310‑cp310‑win_amd64.whl
+<br> in here cp310 in the python version
+<br>
+if you version is 3.9 <br>
+ you can see 
+ PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl
+ <br> cp39 is python version 3.9
+  
+
+
 
 <br>
 then go to the folder where you download the .whl file <br>
