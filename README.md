@@ -9,3 +9,7 @@ and also you have to install pyaudio<br>
 
 link<br>
 https://www.lfd.uci.edu/~gohlke/pythonlibs
+<br>
+Scorall down and find<br><br>
+
+Py-Adio
