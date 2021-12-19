@@ -22,6 +22,9 @@ or
 if your system is 64bit, you have to download win_amd64.whl
 <br<
 and you have to find your python version
+<br>
+py_audio install <br>
+https://www.youtube.com/watch?v=qO9Rd-bvp94
 
 <br><br>
 Example : PyAudio‑0.2.11‑cp310‑cp310‑win_amd64.whl
